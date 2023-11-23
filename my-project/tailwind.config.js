@@ -23,6 +23,7 @@ export default {
       subHeadingSpace: '.15rem',
       navSpace: '.17rem',
     },
+
     extend: {},
   },
   plugins: [],
